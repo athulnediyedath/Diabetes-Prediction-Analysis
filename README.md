@@ -1,2 +1,2 @@
 # Diabetes-Prediction-Analysis
-This is a Tableau and PostgreSQL based prediction project.
+This is a Tableau and PostgreSQL powered prediction project.
